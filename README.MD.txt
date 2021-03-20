@@ -7,8 +7,3 @@
 - 🌱 I’m currently learning lots of new things on my own in my freetime, including MERN stack, Git & GitHub and AWS.
 - 💻 Actually, I'm at my first job and I'm using most of the time WordPress.
 - 📫 Contacts ...
-
-<!---
-alelandi/alelandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
