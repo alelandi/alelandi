@@ -5,5 +5,5 @@
   on the backend, I love Node.JS and Python;
   for databases, I have tried a bit MongoDB and DynamoDB and all other RDBMSs.
 - 🌱 I’m currently learning lots of new things on my own in my freetime, including MERN stack, Git & GitHub and AWS.
-- 💻 Actually, I'm at my first job and I'm using most of the time WordPress and I'm realizing some Web Apps.
+- 💻 Actually, I'm at my first job; I'm using most of the time WordPress and I'm developing some Web Apps.
 - 📫 Contacts ...
